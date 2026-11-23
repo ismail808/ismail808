@@ -4,11 +4,11 @@
 # 👋 Hey, I'm Ismail Sadouk!
 
 ### 🎓 Computer Engineering Student
-### 💻 Full-Stack & Mobile Developer
+### 💻 Full-Stack & Mobile Development
 
 🇲🇦 **Based in Morocco**
 
-Passionate about software engineering, building innovative digital solutions, and transforming ideas into real-world applications.
+Passionate about software engineering, modern technologies, and turning ideas into real-world applications.
 
 <br/>
 
@@ -23,14 +23,14 @@ Passionate about software engineering, building innovative digital solutions, an
 ## 🚀 About Me
 
 - 🎓 Computer Engineering Student
-- 💻 Passionate about **Full-Stack Development**
-- 📱 Interested in **Mobile App Development**
-- 🧠 Exploring **Software Engineering & Architecture**
-- 🗄️ Working with **SQL & NoSQL Databases**
-- ⚡ Interested in building scalable and efficient applications
-- 🌱 Always learning and improving my technical skills
+- 💻 Interested in Full-Stack Development
+- 📱 Building Web & Mobile Applications
+- 🧠 Exploring Software Engineering & Architecture
+- 🗄️ Working with SQL & NoSQL Databases
+- ⚡ Interested in performance and scalable applications
+- 🌱 Always learning and improving my skills
 - 🤝 Open to collaboration and open-source contributions
-- 📍 Based in **Morocco 🇲🇦**
+- 📍 Based in Morocco 🇲🇦
 
 ---
 
@@ -44,12 +44,9 @@ Passionate about software engineering, building innovative digital solutions, an
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web Development
+### 🌐 Web & Mobile Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 📱 Mobile Development
-
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Databases
@@ -58,7 +55,7 @@ Passionate about software engineering, building innovative digital solutions, an
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4B5563?style=for-the-badge&logo=database&logoColor=white)
 
-### ⚙️ Development Tools
+### ⚙️ Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -68,30 +65,14 @@ Passionate about software engineering, building innovative digital solutions, an
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 My Projects
 
-### 🚀 CoCapitale
+> Automatically updated from my public GitHub repositories.
+> New projects appear here without manually editing this README.
 
-A digital platform designed to connect entrepreneurs, investors, and innovative projects.
-
-**Focus Areas:**
-- Full-Stack Web Development
-- User Experience
-- Database Architecture
-- Modern Web Technologies
-
-*Currently under development.*
-
-### 🚗 LocationVoitures
-
-A vehicle rental management application built using C#.
-
-**Focus Areas:**
-- Software Development
-- Database Management
-- Application Design
-
-🔗 [View Project](https://github.com/ismail808/LocationVoitures)
+<!-- PROJECTS:START -->
+Projects will appear here automatically.
+<!-- PROJECTS:END -->
 
 ---
 
@@ -113,7 +94,7 @@ A vehicle rental management application built using C#.
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -126,10 +107,10 @@ A vehicle rental management application built using C#.
 ## 🎯 Current Focus
 
 - 🚀 Building meaningful digital products
-- 📱 Improving my web and mobile development skills
-- 🧠 Learning advanced software engineering concepts
+- 📱 Developing web and mobile applications
+- 🧠 Improving software engineering skills
 - 🗄️ Exploring database design and optimization
-- 🌍 Expanding my experience with real-world projects
+- 🌍 Working on real-world projects
 - 🤝 Growing within the open-source community
 
 ---
@@ -138,7 +119,8 @@ A vehicle rental management application built using C#.
 
 <div align="center">
 
-I'm always open to discussing technology, innovative ideas, and software development opportunities.
+I'm interested in technology, software engineering,
+innovative ideas, and development opportunities.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismail808)
 
