@@ -71,7 +71,13 @@ Passionate about software engineering, modern technologies, and turning ideas in
 > New projects appear here without manually editing this README.
 
 <!-- PROJECTS:START -->
-Projects will appear here automatically.
+| Project | Description | Language | Stars |
+|:--------|:------------|:---------|------:|
+| [LocationVoitures](https://github.com/ismail808/LocationVoitures) | First Project | C# | ⭐ 0 |
+
+**Total Public Projects:** 1
+
+[Explore All Repositories](https://github.com/ismail808?tab=repositories)
 <!-- PROJECTS:END -->
 
 ---
